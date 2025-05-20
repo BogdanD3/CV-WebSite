@@ -14,7 +14,7 @@ const HeroPic = () => {
     >
       <img
         src="../../public/images/HexaPic.png"
-        alt="Abdelrahman Qassem"
+        alt="Bogdan Img"
         className="max-h-[450px] w-auto relative -top-16"
       />
 
