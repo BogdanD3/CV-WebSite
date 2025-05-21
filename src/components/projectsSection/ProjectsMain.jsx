@@ -8,31 +8,32 @@ const projects = [
     name: "Online Library",
     year: "May 2024",
     align: "right",
-    image: "../../public/images/website-1.jpg",
+    image: `${import.meta.env.BASE_URL}images/website-1.jpg`,
     link: "#",
   },
   {
     name: "Rent a Car",
     year: "Sept 2024",
     align: "left",
-    image: "../../public/images/website-2.jpg",
+    image: `${import.meta.env.BASE_URL}images/website-2.jpg`,
     link: "#",
   },
   {
     name: "NEsto",
     year: "Jan 2025",
     align: "right",
-    image: "../../public/images/website-img-3.jpg",
+    image: `${import.meta.env.BASE_URL}images/website-img-3.jpg`,
     link: "#",
   },
   {
     name: "E-Commerce",
     year: "Ongoing Project",
     align: "left",
-    image: "../../public/images/website-4.jpg",
+    image: `${import.meta.env.BASE_URL}images/website-4.jpg`,
     link: "#",
   },
 ];
+
 
 const ProjectsMain = () => {
   return (
