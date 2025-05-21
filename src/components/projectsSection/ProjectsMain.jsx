@@ -19,10 +19,10 @@ const projects = [
     link: "#",
   },
   {
-    name: "NEsto",
+    name: "Movie Streaming",
     year: "Jan 2025",
     align: "right",
-    image: `${import.meta.env.BASE_URL}images/website-img-3.jpg`,
+    image: `${import.meta.env.BASE_URL}images/website-3.png`,
     link: "#",
   },
   {
